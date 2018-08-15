@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("hello cgi\n");
+    printf("rescue is beginning\n");
     return 0;
 }
